@@ -8,12 +8,12 @@
 **Below are the images of my website, that I learned from coursera!!**
 
 ==================================================================================
-# Module 2-solution....
+# Module 2
 
 ![](Img_module2.png)
 
 ==================================================================================
-# Module 5-solution....
+# Module 5
 
 ![](images_of_mod5-sol/img_module5.png)
 ![](images_of_mod5-sol/img_mod5.png)
